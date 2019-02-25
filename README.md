@@ -16,7 +16,7 @@ Sorry if my English is bad sometimes, not my native language, but I will try and
 and everything don't need to be in the terminal ;) <br />
 
 ![ressources](https://raw.githubusercontent.com/Speyll/Minimal-Void-Bspwm/master/screenshots/image1.png) <br />
-**ressources**, Like you see i have only 96ram used at launch, how i achieve that is pretty simple, first not using systemd helps, i'm not saying systemd is bad
+**ressources**, Like you see i have only 96M of ram used at launch, how i achieve that is pretty simple, first not using systemd helps, i'm not saying systemd is bad
 it's really just matter of taste i actually prefere runit it's more lighter on ressources so it's win win, i also don't use the full xorg packages but instead install 
 xorg-minimal with xprop xrdb xsel xset xsetroot xsettingsd xtitle xbacklight xdo xf86-video-intel if you have a laptop trackpad install with it this xf86-input-synaptics
 <br />
